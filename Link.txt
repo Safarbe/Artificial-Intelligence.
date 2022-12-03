@@ -1,0 +1,27 @@
+1. Machine learning and data science:
+Coursera: MIPT University.
+
+2. IBM AI Engineering:
+coursera: https://www.coursera.org/professional-certificates/ai-engineer
+
+
+3. Reinforcement learning:
+youtube: https://www.youtube.com/watch?v=kz6I-H5rsOU&t=6s
+
+4.Probabilistic graphical models:
+youtube: https://www.youtube.com/watch?v=wRn6bj8aBWE
+
+5. Applied Statistics: 
+youtube: https://www.youtube.com/playlist?list=PLk4h7dmY2eYEdKleN2_pwDBFwW0oX-pDl
+
+6. NLP:
+youtube: https://www.youtube.com/watch?v=k9KbrKcMKNk&list=PLk4h7dmY2eYFEuGx1mabR4Eo2RFklU_Us&index=1
+
+
+7. Advanced Computer vision with Tensorflow:
+Coursera: https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow 
+
+8. Generative models: 
+youtube: https://www.youtube.com/playlist?list=PLk4h7dmY2eYH9RtoKGzxHKji0GLiBzSlZ
+
+ 
